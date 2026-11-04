@@ -1,0 +1,3 @@
+RADHA AI is an experimental personal Android assistant starter project.
+The project is supplied as source code for development and testing, not as a finished or production-secure assistant.
+Android device features and AI API usage depend on permissions, device support, network access, and provider availability.
